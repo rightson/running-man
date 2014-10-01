@@ -7,11 +7,11 @@
 
 ### Setup environment ###
 
-1. install dependency
+##### install dependency
 
 $ npm install 
 
-2. put phantomjs to $PATH
+##### put phantomjs to $PATH
 
 Please visit http://phantomjs.org/
 
