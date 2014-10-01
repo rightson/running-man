@@ -5,6 +5,16 @@
 * Version
     0.0.0
 
-### How do I get set up? ###
+### Setup environment ###
+
+1. install dependency
 
 $ npm install 
+
+2. put phantomjs to $PATH
+
+Please visit http://phantomjs.org/
+
+
+### Development flow ###
+Git Flow (source tree)
