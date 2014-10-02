@@ -1,9 +1,6 @@
 ### Running man ###
 
-* Purpose
-    For cool running man
-* Version
-    0.0.1
+* Version: `0.0.1`
 
 ### Setup environment ###
 
