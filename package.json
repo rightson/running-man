@@ -1,6 +1,6 @@
 {
-  "name": "auto-reservation",
-  "version": "0.0.0",
+  "name": "running-man",
+  "version": "0.0.1",
   "description": "auto login reservation system",
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,8 @@
     "gm": "^1.16.0",
     "gm-buffer": "0.0.3",
     "images": "^2.0.2",
-    "phantom": "^0.6.5"
-  }
+    "phantom": "^0.6.5",
+    "pngjs": "^0.4.0"
+  },
+  "devDependencies": {}
 }

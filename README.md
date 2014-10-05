@@ -1,20 +1,14 @@
-### What is this repository for? ###
+### Running man ###
 
-* Quick summary
-    auto login some web page and make a reservation.
-* Version
-    0.0.0
+* Version: `0.0.1`
 
 ### Setup environment ###
 
-##### install dependency
+1. install dependency
+    `$ npm install`
 
-$ npm install 
-
-##### put phantomjs to $PATH
-
-Please visit http://phantomjs.org/
+2. put phantomjs to $PATH (visit http://phantomjs.org/)
 
 
 ### Development flow ###
-Git Flow (source tree)
+Please follow Git Flow (source tree is recommended)
