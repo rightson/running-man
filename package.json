@@ -16,7 +16,11 @@
     "gm": "^1.16.0",
     "gm-buffer": "0.0.3",
     "images": "^2.0.2",
+    "netpbm": "^1.1.0",
+    "nightmare": "^1.1.0",
+    "node-tesseract": "^0.2.6",
     "phantom": "^0.6.5",
+    "phantomjs": "^1.9.10",
     "pngjs": "^0.4.0"
   },
   "devDependencies": {}
