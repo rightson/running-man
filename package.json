@@ -20,7 +20,9 @@
     "nightmare": "^1.6.5",
     "node-tesseract": "^0.2.6",
     "phantom": "^0.6.5",
-    "phantomjs": "^1.9.10"
+    "phantomjs": "^1.9.10",
+    "pngjs": "^0.4.0",
+    "selenium-webdriver": "^2.43.5"
   },
   "devDependencies": {}
 }
